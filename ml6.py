@@ -6,7 +6,7 @@ maze = np.array([
     [0, 0, 0, 1, 0],  # 1 indicates an obstacle
     [0, 1, 1, 1, 0],
     [0, 1, 0, 0, 0],
-    [0, 1, 1, 1, 0],
+    [0, 0, 1, 1, 0],
     [1, 0, 0, 0, 2]   # 2 indicates the goal
 ])
 
